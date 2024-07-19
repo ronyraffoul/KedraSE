@@ -1,0 +1,18 @@
+Content-Length: 118623
+Cache-Control: public
+Content-Type: application/pdf
+Expires: Fri, 19 Jul 2024 22:29:31 GMT
+Last-Modified: Thu, 04 Jul 2024 05:48:19 GMT
+Accept-Ranges: bytes
+Etag: "1DACDD5C5BBD380"
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: PUT, GET, POST, DELETE, OPTIONS
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Permissions-Policy: accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+Content-Security-Policy: default-src 'unsafe-eval' 'unsafe-inline' * blob:; style-src * data: blob: 'unsafe-inline'; script-src 'unsafe-inline' 'unsafe-eval' * blob:; img-src * data: blob:; font-src * data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; manifest-src 'self' data:; object-src 'self';
+Strict-Transport-Security: max-age=31536000
+Date: Fri, 19 Jul 2024 10:29:31 GMT
+Set-Cookie: TSb150167c027=08203559eeab2000c65e4761e012a7461e82f13b551dbb9c81eb6dcd7dd2f66eb3298861e943844608970960191130001fe18d156c781e1ed0bcfada6d42f7d2fb41b3aee99e7ead3934bf805b8a4e8abc92a754f07ba3260cc7cc43738580c3; Path=/

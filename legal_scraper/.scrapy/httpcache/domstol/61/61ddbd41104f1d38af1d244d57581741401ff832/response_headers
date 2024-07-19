@@ -1,0 +1,15 @@
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: PUT, GET, POST, DELETE, OPTIONS
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Permissions-Policy: accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+Content-Security-Policy: default-src 'unsafe-eval' 'unsafe-inline' * blob:; style-src * data: blob: 'unsafe-inline'; script-src 'unsafe-inline' 'unsafe-eval' * blob:; img-src * data: blob:; font-src * data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; manifest-src 'self' data:; object-src 'self';
+Strict-Transport-Security: max-age=31536000
+Date: Fri, 19 Jul 2024 10:29:28 GMT
+Set-Cookie: TSb150167c027=08203559eeab2000ebf05635c200c7854accc102588d4903ab8a3280fc701accf416f5fa87f10ea90863c046bb11300097c2a26ce88b2167bd08aa936f6a6f6780b6f583afdd7c2d18f003f7b46dbe68a8793a22104ea50faa9186f33fe611db; Path=/
+Vary: Accept-Encoding
+Content-Encoding: gzip

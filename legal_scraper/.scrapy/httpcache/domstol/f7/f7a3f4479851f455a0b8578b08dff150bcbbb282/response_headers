@@ -1,0 +1,19 @@
+Content-Length: 73
+Cache-Control: public, max-age=10
+Content-Type: text/plain; charset=utf-8
+Expires: Fri, 19 Jul 2024 10:28:47 GMT
+Last-Modified: Fri, 19 Jul 2024 10:28:37 GMT
+Vary: *, Accept-Encoding
+Set-Cookie: ASP.NET_SessionId=5qxfv2n4rgoz5l5ygkq5hfcu; path=/; HttpOnly; SameSite=Lax
+Set-Cookie: TS01b8d016=010ba75c4bac953d2021a958f8e0027b7ad42b1d8e40cada09d818997f5b097056de32c5a150b31312512102a29dc83ab25a3bd8155a8c497e6f619679fda73dcf91d0d35a; Path=/
+Set-Cookie: TSb150167c027=08203559eeab200003811867121fb1d7cadffa138321a07567b3b213ef094e21a1a6f366518fbc7c08174c8e411130002022757ccab8a41cef631de4174e552a3f1f5b373fa697ab76a150601b238c7b437c3ec1be757b11d124f512f45320a7; Path=/
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: PUT, GET, POST, DELETE, OPTIONS
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Permissions-Policy: accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+Content-Security-Policy: default-src 'unsafe-eval' 'unsafe-inline' * blob:; style-src * data: blob: 'unsafe-inline'; script-src 'unsafe-inline' 'unsafe-eval' * blob:; img-src * data: blob:; font-src * data:; frame-ancestors 'self'; base-uri 'self'; form-action 'self'; manifest-src 'self' data:; object-src 'self';
+Strict-Transport-Security: max-age=31536000
+Date: Fri, 19 Jul 2024 10:28:37 GMT

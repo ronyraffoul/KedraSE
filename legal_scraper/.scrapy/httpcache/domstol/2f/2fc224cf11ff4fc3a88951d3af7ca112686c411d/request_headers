@@ -1,0 +1,18 @@
+Accept: application/json
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.9,fr-FR;q=0.8,fr;q=0.7
+Connection: keep-alive
+Content-Length: 0
+Content-Type: application/json
+Dnt: 1
+Host: www.domstol.se
+Origin: https://www.domstol.se
+Referer: https://www.domstol.se/hogsta-domstolen/avgoranden/
+Sec-Ch-Ua: "Not/A)Brand";v="8", "Chromium";v="126", "Microsoft Edge";v="126"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "macOS"
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+Cookie: ASP.NET_SessionId=5qxfv2n4rgoz5l5ygkq5hfcu; TS01b8d016=010ba75c4bac953d2021a958f8e0027b7ad42b1d8e40cada09d818997f5b097056de32c5a150b31312512102a29dc83ab25a3bd8155a8c497e6f619679fda73dcf91d0d35a; TSb150167c027=08203559eeab2000d40c6aec6339952dddd875a21f28efdfd4a6cf5e05b8e28b0f90bb8195ee8eba08ecd9a33e113000d4478626686bfc0029559edeeac0e531e62d81ae2bf43bec47d3866753fd1076c52eaf4066349528eea6fb9007de6022
